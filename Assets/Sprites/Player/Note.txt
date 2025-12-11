@@ -1,0 +1,2 @@
+do phần thân và tay chân cũng chỉ là pixel đơn giản nên tôi chỉ vẽ mỗi phần đầu
+Trong Unity chỉnh per pixel lên 160

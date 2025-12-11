@@ -1,0 +1,1 @@
+Trong Unity chỉnh per pixel lên 160, riêng mấy cái rìu là 180
