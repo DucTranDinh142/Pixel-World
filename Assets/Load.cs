@@ -22,5 +22,9 @@ public class Load : MonoBehaviour
         {
             textMeshProUGUI.gameObject.SetActive(true);
         }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            LoadMenu();
+        }
     }
 }

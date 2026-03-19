@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Iron_Hammer
   m_EditorClassIdentifier: 
   nameTool: Iron Hammer
-  sprite: {fileID: 21300000, guid: ad698bfc3af25fe498a7720f726e8c6b, type: 3}
+  sprite: {fileID: 21300000, guid: da407522159062d408acca5d01f5fded, type: 3}
   toolType: 3
